@@ -1,2 +1,0 @@
-# alamin-khan
-SEO Website
