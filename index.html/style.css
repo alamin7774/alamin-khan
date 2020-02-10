@@ -1,76 +1,83 @@
+body{
+    background-color: blue;
 
+    background-image: url('download (1).jpg');
+    
 
-
-
-.amin {
-
-background-color: black;
-padding: 10px;
-font-size:30px ;
-
-}
-
-
-.navbar-brand{
-
-
-background-color;
-
-color|:green;
-
-
-}
-
-.amin{
-
-    background-color: black;
-    color:;
-    padding:15px;
-    margin: 10px;
-
-}
-
-
- .div1{
-background-color:#4192D5 ;
-margin:10px ;
-padding:20px;
- }
-
-.div2{
-
-background-color:black;
-color:#fff;
-font-size:30px;
-margin:20px;
-padding:10px;
-
-}
-.div2 h3{
-  color: aqua;
-}
-.div3{
-
-
-background-color: chartreuse;
-height: 20px;
-margin: 20px;
-padding: ;
 }
 #name{
 
-    background-color: #000;
-    margin: 20px;
-    padding: 20px;
-    height: 400px;
+padding: 10px;
+margin: 10px;
+
 
 }
-h1{
-    color:#fff;
+.div1{
+background-color:red;
+margin: 80px;
+padding: 50px;
 
 }
-span{
-color:#fff;
-font-size: 20px;
 
+.div2{
+    background-color:green;
+    margin: 80px;
+    padding: 50px;
+    
+
+}
+
+.div3{
+
+
+    background-color:rgb(228, 243, 19);
+    margin: 80px;
+    padding: 50px;
+    
+
+}
+.div4{
+
+
+    background-color:rgb(146, 155, 16);
+    margin: 80px;
+    padding: 50px;
+    
+}
+.div5{
+
+
+    background-color:rgb(228, 31, 169);
+    margin: 80px;
+    padding: 50px;
+    height: 300px;
+    
+}
+
+.div6{
+
+
+    background-color:rgb(34, 164, 224);
+    margin: 80px;
+    padding: 50px;
+    height: 300px;
+    
+}
+.div7{
+
+
+    background-color:rgb(215, 228, 31);
+    margin: 80px;
+    padding: 50px;
+    height: 300px;
+    
+}
+.div8{
+
+background-color: black;
+height: 100px;
+font-size: 40px;
+text-decoration: none;
+float: ;
+padding: 10px;
 }
