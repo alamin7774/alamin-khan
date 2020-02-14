@@ -1,83 +1,30 @@
 body{
-    background-color: blue;
-
-    background-image: url('download (1).jpg');
     
-
-}
-#name{
-
-padding: 20px;
-margin: 10px;
-
+background-color:#9BCB74;
+background-image:url('the-road-815297__340.webp') ;
+background-position:right bottom;
+background-repeat:no-repeat ;
+background-attachment:fixed;
 
 }
 .div1{
-background-color:red;
 margin: 10px;
-padding: 20px;
+padding: 5px;
+font-size: 35px;
+
 
 }
-
-.div2{
-    background-color:green;
-    margin: 10px;
-    padding: 20px;
-    
-
+.div2 img{
+height: 400px;
+  padding: 5px;
+  margin: 20px;
+background-color:green;
 }
-
 .div3{
 
-
-    background-color:rgb(228, 243, 19);
-    margin: 10px;
-    padding: 20px;
     
+background-color:black ;
+color:white;
+padding: 5px;
 
-}
-.div4{
-
-
-    background-color:rgb(146, 155, 16);
-    margin: 10px;
-    padding: 20px;
-    
-}
-.div5{
-
-
-    background-color:rgb(228, 31, 169);
-    margin: 10px;
-    padding: 20px;
-    height: 300px;
-    
-}
-
-.div6{
-
-
-    background-color:rgb(34, 164, 224);
-    margin: 10px;
-    padding: 20px;
-    height: 300px;
-    
-}
-.div7{
-
-
-    background-color:rgb(215, 228, 31);
-    margin: 10px;
-    padding: 20px;
-    height: 300px;
-    
-}
-.div8{
-
-background-color: black;
-height: 100px;
-font-size: 40px;
-text-decoration: none;
-float: ;
-padding: 1px;
 }
